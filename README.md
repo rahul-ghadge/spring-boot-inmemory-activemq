@@ -36,7 +36,9 @@ Super Hero : SuperHero [name=Wade, superName=Deadpool, profession=Street fighter
 
 2020-03-29 15:24:43.676  INFO 9560 --- [enerContainer-1] c.a.d.p.controller.ListenerController    : Super Hero : SuperHero [name=Wade, superName=Deadpool, profession=Street fighter, age=28, canFly=false]
 
-
+ 
+ 
+ 
 
 ![Alt text](https://github.com/rahul-ghadge/spring-boot-inmemory-activemq/blob/master/src/main/resources/static/InMemoryActiveMQOutput.PNG?raw=true "In Memory ActiveMQ Output")
 
