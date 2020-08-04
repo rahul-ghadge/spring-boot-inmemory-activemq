@@ -21,7 +21,9 @@ Received Message : GoodMorning
 2020-03-29 15:24:43.667  INFO 9560 --- [nio-8080-exec-2] c.a.d.p.controller.ProducerController    : Sending Message :: SuperHero [name=Wade, superName=Deadpool, profession=Street fighter, age=28, canFly=false]  
 2020-03-29 15:24:43.673  INFO 9560 --- [nio-8080-exec-2] c.a.d.p.controller.ProducerController    : Message sent successfully...!  
 2020-03-29 15:24:43.675  INFO 9560 --- [enerContainer-1] c.a.d.p.controller.ListenerController    : Inside ListenerController::getMessage()   
+
 Received Message : {"name":"Wade","superName":"Deadpool","profession":"Street fighter","age":28,"canFly":false}  
+
 2020-03-29 15:24:43.675  INFO 9560 --- [enerContainer-1] c.a.d.p.controller.ListenerController    : Received Message : {"name":"Wade","superName":"Deadpool","profession":"Street fighter","age":28,"canFly":false}  
 Super Hero : SuperHero [name=Wade, superName=Deadpool, profession=Street fighter, age=28, canFly=false]  
 2020-03-29 15:24:43.676  INFO 9560 --- [enerContainer-1] c.a.d.p.controller.ListenerController    : Super Hero : SuperHero [name=Wade, superName=Deadpool, profession=Street fighter, age=28, canFly=false]  
