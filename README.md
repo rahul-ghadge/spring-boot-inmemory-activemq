@@ -16,7 +16,7 @@ Received Message : GoodMorning
 
 > http://localhost:8080/superhero
 ```
->{ "name": "Wade", "superName": "Deadpool", "profession": "Street fighter", "age": 28, "canFly": false }  
+{ "name": "Wade", "superName": "Deadpool", "profession": "Street fighter", "age": 28, "canFly": false }  
 2020-03-29 15:24:43.667  INFO 9560 --- [nio-8080-exec-2] c.a.d.p.controller.ProducerController    : Inside ProducerController::sendObjectMessage()   
 2020-03-29 15:24:43.667  INFO 9560 --- [nio-8080-exec-2] c.a.d.p.controller.ProducerController    : Sending Message :: SuperHero [name=Wade, superName=Deadpool, profession=Street fighter, age=28, canFly=false]  
 2020-03-29 15:24:43.673  INFO 9560 --- [nio-8080-exec-2] c.a.d.p.controller.ProducerController    : Message sent successfully...!  
