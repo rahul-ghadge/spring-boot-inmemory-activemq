@@ -7,7 +7,7 @@ Spring boot in memory ActiveMQ demo application
 2020-03-29 15:24:27.206  INFO 9560 --- [nio-8080-exec-1] c.a.d.p.controller.ProducerController    : Inside ProducerController::sendTextMessage()  
 2020-03-29 15:24:27.206  INFO 9560 --- [nio-8080-exec-1] c.a.d.p.controller.ProducerController    : Sending Message :: Good Morning   
 2020-03-29 15:24:27.210  INFO 9560 --- [nio-8080-exec-1] c.a.d.p.controller.ProducerController    : Message sent successfully...!
-020-03-29 15:24:27.211  INFO 9560 --- [enerContainer-1] c.a.d.p.controller.ListenerController    : Inside ListenerController::getMessage()
+2020-03-29 15:24:27.211  INFO 9560 --- [enerContainer-1] c.a.d.p.controller.ListenerController    : Inside ListenerController::getMessage()
 
 Received Message : GoodMorning
 
