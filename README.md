@@ -23,7 +23,8 @@ Request body:
   "superName": "Deadpool", 
   "profession": "Street fighter", 
   "age": 28, 
-  "canFly": false }  
+  "canFly": false 
+  }  
 ```
 
 ```
